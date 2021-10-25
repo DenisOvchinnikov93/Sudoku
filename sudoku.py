@@ -1,5 +1,3 @@
-# Online Python - IDE, Editor, Compiler, Interpreter
-
 import numpy as np
 import copy
 import random
