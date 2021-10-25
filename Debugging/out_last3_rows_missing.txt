@@ -1,0 +1,6909 @@
+setting value 3 at point (6, 0)
+
+setting value 6 at point (6, 3)
+
+setting value 6 at point (7, 0)
+
+setting value 1 at point (6, 1)
+
+setting value 4 at point (6, 4)
+
+setting value 4 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 4 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 4 at point (6, 1)
+
+setting value 1 at point (6, 4)
+
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (6, 4)
+
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (6, 1)
+
+setting value 4 at point (6, 4)
+
+setting value 4 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 4 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 4 at point (6, 1)
+
+setting value 1 at point (6, 4)
+
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (6, 4)
+
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 6 at point (7, 0)
+
+setting value 1 at point (6, 1)
+
+setting value 4 at point (6, 4)
+
+setting value 4 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 4 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 4 at point (6, 1)
+
+setting value 1 at point (6, 4)
+
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (6, 4)
+
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (6, 1)
+
+setting value 4 at point (6, 4)
+
+setting value 4 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 4 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 4 at point (6, 1)
+
+setting value 1 at point (6, 4)
+
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (6, 4)
+
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 6 at point (6, 0)
+
+setting value 3 at point (6, 3)
+
+setting value 3 at point (7, 0)
+
+setting value 1 at point (6, 1)
+
+setting value 4 at point (6, 4)
+
+setting value 4 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 4 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 4 at point (6, 1)
+
+setting value 1 at point (6, 4)
+
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (6, 4)
+
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (6, 1)
+
+setting value 4 at point (6, 4)
+
+setting value 4 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 4 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 4 at point (6, 1)
+
+setting value 1 at point (6, 4)
+
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (6, 4)
+
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 3 at point (7, 0)
+
+setting value 1 at point (6, 1)
+
+setting value 4 at point (6, 4)
+
+setting value 4 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 4 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 4 at point (6, 1)
+
+setting value 1 at point (6, 4)
+
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (6, 4)
+
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (6, 1)
+
+setting value 4 at point (6, 4)
+
+setting value 4 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 4 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 4 at point (6, 1)
+
+setting value 1 at point (6, 4)
+
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (6, 4)
+
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 3 at point (6, 3)
+
+setting value 3 at point (7, 0)
+
+setting value 1 at point (6, 1)
+
+setting value 4 at point (6, 4)
+
+setting value 4 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 4 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 4 at point (6, 1)
+
+setting value 1 at point (6, 4)
+
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (6, 4)
+
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (6, 1)
+
+setting value 4 at point (6, 4)
+
+setting value 4 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 4 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 4 at point (6, 1)
+
+setting value 1 at point (6, 4)
+
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (6, 4)
+
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 3 at point (7, 0)
+
+setting value 1 at point (6, 1)
+
+setting value 4 at point (6, 4)
+
+setting value 4 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 4 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 4 at point (6, 1)
+
+setting value 1 at point (6, 4)
+
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (6, 4)
+
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (6, 1)
+
+setting value 4 at point (6, 4)
+
+setting value 4 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 4 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 4 at point (6, 1)
+
+setting value 1 at point (6, 4)
+
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (6, 4)
+
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 1 at point (7, 1)
+
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 2)
+
+setting value 5 at point (6, 5)
+
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 5 at point (6, 2)
+
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (6, 5)
+
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
+backtracking to find other solutions
+setting value 2 at point (7, 2)
+
+found a solution
+backtracking to find other solutions
+found a solution
