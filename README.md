@@ -2,7 +2,7 @@
 Python project to solve sudokus, mostly just for fun.
 
 At the moment it is just barebones Sudoku class, for sudokus of size (N^2, N^2) (standard sudukus are N=3), and supporting methods.
-Methods include functionality to find a single solution and/or find all solutions.
+Methods include functionality to find a single solution and/or find all solutions. Sudoku class inherits from numpy arrays, allowing to use full numpy functionality to work with them.
 
 Interactive GUI will be added in the future, including ability to enter and check your sudokus.
 
