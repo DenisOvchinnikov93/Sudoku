@@ -10,3 +10,12 @@ settings
 
 # Debugging logs:
 debugging
+
+# Virtual enviroment
+venv
+
+# Pycache
+pycahche
+
+
+

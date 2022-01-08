@@ -14,6 +14,9 @@
 # Because of that loading a sudoku from a string might take several seconds.
 # TODO: Include solution information into a sudoku, otherwise loading hard 16x16 sudokus takes very long time!
 #
+# TODO: change autosave naming to have more reasonable file names (can just hash the table string)
+#  into length 20 string.
+#
 # Run the main script for a simple GUI to generate new puzzles. The UI is unresponsive during generating time.
 
 

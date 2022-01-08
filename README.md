@@ -3,6 +3,8 @@
 ###  Customizable settings, over 1000 puzzles and the ability to generate more! 
 ### Your games are autosaved and can be loaded later, so don't worry about losing your progress!
 
+Run "Just sudoku.py" or "Just sudoku.exe" in the "dist/Just sudoku" folder.
+
 Interactive GUI was added, including ability to enter and check your sudokus, save and load your games and a puzzle pank with about 1000 sudokus of various difficulty. At the moment standard 9x9 sudokus work without interruptions or using much computational power. 16x16 sudokus are supported (and a few are present in the puzzle bank), but might take up to a minute to load (since the program computes puzzle solution on game launch). 
 
 The user unterface also contains adjustable settings which will be persistent throughout different sessions. More customizable settings will be added in the future.
