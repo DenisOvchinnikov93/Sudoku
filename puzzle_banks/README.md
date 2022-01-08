@@ -1,6 +1,9 @@
+# Contains information on sudokus available in the game. 
 ## Not following the formatting might damage the puzzle bank during run time. Make a copy before doing any manual adjustments to the puzzle bank file.
 
-Sudokus stored in puzzle banks must follow the same format: 
+You can use puzzle_generator.py on the file to add more sudokus, or enter sudokus in-game. If you add sudokus that have multiple solutions, computer help buttons will not work as expected. 
+
+You can manually add/remove, adjust sudokus by following the formatting. Sudokus stored in puzzle banks must follow the same format: 
 
 N, number_of_clues, complexity_of_solution, tried_before, done_before
 sudoku
