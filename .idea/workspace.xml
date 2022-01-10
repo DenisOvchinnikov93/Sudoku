@@ -202,11 +202,12 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python tests.Unittests in test_sudoku_solver.py" />
+      <item itemvalue="Python.main_program" />
       <item itemvalue="Python.pyinstaller" />
       <item itemvalue="Python.frame_manager" />
       <item itemvalue="Python.frame_manager (1)" />
       <item itemvalue="Python.Just sudoku" />
+      <item itemvalue="Python tests.Unittests in test_sudoku_solver.py" />
     </list>
     <recent_temporary>
       <list>
@@ -239,6 +240,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
