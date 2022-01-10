@@ -97,6 +97,8 @@ GameFrame allows enabling game creation mode that starts with an empty board an 
 - Please install in a folder that are not too deep in your folder hierarchy as save file names are about 120 characters long. If your autosaves are not working, this is likely the reason. I might change the game hashing in the future if this proves to be a common issue.
 
 - Game freezes for several seconds when loading hard 9x9 puzzles and for up to a minute when loading 16x16 puzzles. This is due to the system calculating a solution when new sudoku is loaded into memory. This can be changed by changing .solution attribute of SudokuGame to initialize to None and compute later.
+ 
+- After playing on a 16x16 board and going to settings, the game is being displayed incorrectly. 
 
 - At the moment there is no in-app logging system in-place. I might add a comprehensive logging system in the future. At the moment if you experience problems, just let me know your system configurations and steps to replicate the problem. You can also try to debug the original code yourself.
 
